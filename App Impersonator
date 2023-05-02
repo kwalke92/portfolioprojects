@@ -1,0 +1,25 @@
+Think about your favorite apps, and pick one that stores your data- like a game that stores scores, an app that lets you post updates, etc. Now in this project, you're going to imagine that the app stores your data in a SQL database (which is pretty likely!), and write SQL statements that might look like their own SQL.
+
+CREATE a table to store the data.
+INSERT a few example rows in the table.
+Use an UPDATE to emulate what happens when you edit data in the app.
+Use a DELETE to emulate what happens when you delete data in the app.
+
+create table basketball_practice 
+(id INTEGER PRIMARY KEY, 
+name TEXT, 
+score NUMERIC, 
+day TEXT); 
+
+insert into basketball_practice (name, score, day) VALUES ("James", 50, "Wednesday"); 
+insert into basketball_practice (name, score, day) VALUES ("Alex", 150, "Friday"); 
+insert into basketball_practice (name, score, day) VALUES ("Arthur", 100, "Wednesday"); 
+insert into basketball_practice (name, score, day) VALUES ("Brad", 250, "Friday"); 
+insert into basketball_practice (name, score, day) VALUES ("Ricky", 150, "Wednesday"); 
+
+update basketball_practice set score = 80 where id =3; 
+select * from basketball_practice;
+
+delete from basketball_practice where id = 5; 
+
+select * from basketball_practice; 
