@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"UTF-8\"?><ck><di ky=\"0\" rd=\"The_Sims_4_CC_How-To_and_Troubleshooting/The_Sims_4_CC_How-To_and_Troubleshooting.htm|The Sims 4 CC How-To and Troubleshooting\" ct=\"    Installing Custom Content (CC) for The Sims 4 on Steam Deck  Introduction:  This guide provides  ...\" bc=\"\"/></ck>";
