@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data ><item name=\"The Sims 4 CC How-To and Troubleshooting\" url=\"The_Sims_4_CC_How-To_and_Troubleshooting/The_Sims_4_CC_How-To_and_Troubleshooting.htm\" /></data>";
